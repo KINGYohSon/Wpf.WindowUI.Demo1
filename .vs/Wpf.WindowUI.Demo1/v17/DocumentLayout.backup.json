@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wpf.WindowUI.Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\themecolors\\freshbluecolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\themecolors\\freshbluecolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\themecolors\\honeypinkcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\themecolors\\honeypinkcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\themecolors\\darkcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\themecolors\\darkcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\themecolors\\lightcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\themecolors\\lightcolor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}|AppearanceCore\\AppearanceCore.csproj|e:\\wpf.windowui.demo1\\appearancecore\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}|AppearanceCore\\AppearanceCore.csproj|solutionrelative:appearancecore\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\customcontrols\\controlstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\customcontrols\\controlstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\customcontrols\\iconbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\customcontrols\\iconbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\svgxamlresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\svgxamlresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|e:\\wpf.windowui.demo1\\wpf.windowui.demo1\\wpf.windowui.demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}|Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj|solutionrelative:wpf.windowui.demo1\\wpf.windowui.demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\guiresources.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\guiresources.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|e:\\wpf.windowui.demo1\\guiresources\\fonts\\fontgeneric.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}|GuiResources\\GuiResources.csproj|solutionrelative:guiresources\\fonts\\fontgeneric.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreshBlueColor.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\FreshBlueColor.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\ThemeColors\\FreshBlueColor.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\FreshBlueColor.xaml",
+              "RelativeToolTip": "GuiResources\\ThemeColors\\FreshBlueColor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T10:25:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoneyPinkColor.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\HoneyPinkColor.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\ThemeColors\\HoneyPinkColor.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\HoneyPinkColor.xaml",
+              "RelativeToolTip": "GuiResources\\ThemeColors\\HoneyPinkColor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T10:25:14.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DarkColor.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\DarkColor.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\ThemeColors\\DarkColor.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\DarkColor.xaml",
+              "RelativeToolTip": "GuiResources\\ThemeColors\\DarkColor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T10:24:29.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\Utilities\\RelayCommand.cs",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:07:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:05:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\AppearanceCore\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "AppearanceCore\\ThemeManager.cs",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\AppearanceCore\\ThemeManager.cs",
+              "RelativeToolTip": "AppearanceCore\\ThemeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:54:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\App.config",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\App.config",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\App.config",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-03T09:52:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IconButton.cs",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\CustomControls\\IconButton.cs",
+              "RelativeDocumentMoniker": "GuiResources\\CustomControls\\IconButton.cs",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\CustomControls\\IconButton.cs",
+              "RelativeToolTip": "GuiResources\\CustomControls\\IconButton.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:11:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControlStyles.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\CustomControls\\ControlStyles.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\CustomControls\\ControlStyles.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\CustomControls\\ControlStyles.xaml",
+              "RelativeToolTip": "GuiResources\\CustomControls\\ControlStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T06:19:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SvgXamlResources.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\SvgXamlResources.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\SvgXamlResources.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\SvgXamlResources.xaml",
+              "RelativeToolTip": "GuiResources\\SvgXamlResources.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T06:13:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Wpf.WindowUI.Demo1.csproj",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T06:03:27.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\App.xaml",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\App.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\App.xaml",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T06:01:15.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FontGeneric.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\Fonts\\FontGeneric.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\Fonts\\FontGeneric.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\Fonts\\FontGeneric.xaml",
+              "RelativeToolTip": "GuiResources\\Fonts\\FontGeneric.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T06:00:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightColor.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\LightColor.xaml",
+              "RelativeDocumentMoniker": "GuiResources\\ThemeColors\\LightColor.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\ThemeColors\\LightColor.xaml",
+              "RelativeToolTip": "GuiResources\\ThemeColors\\LightColor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T05:58:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuiResources.csproj",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\GuiResources.csproj",
+              "RelativeDocumentMoniker": "GuiResources\\GuiResources.csproj",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\GuiResources\\GuiResources.csproj",
+              "RelativeToolTip": "GuiResources\\GuiResources.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T05:31:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\MainWindow.xaml",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T05:29:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf.WindowUI.Demo1\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Wpf.WindowUI.Demo1\\Wpf.WindowUI.Demo1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf.WindowUI.Demo1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:29:43.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

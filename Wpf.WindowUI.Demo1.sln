@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.WindowUI.Demo1", "Wpf.WindowUI.Demo1\Wpf.WindowUI.Demo1.csproj", "{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiResources", "GuiResources\GuiResources.csproj", "{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppearanceCore", "AppearanceCore\AppearanceCore.csproj", "{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F18D47-2C3F-41C0-AE0A-F29B79E48C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B9353B-4623-4CDC-9397-8B9CE0E4920A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64ACAF2-9FF6-4FCF-ACE0-5A1A709D991E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

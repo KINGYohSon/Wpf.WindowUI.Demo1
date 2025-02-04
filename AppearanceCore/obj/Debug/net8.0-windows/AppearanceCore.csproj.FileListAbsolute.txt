@@ -1,0 +1,11 @@
+E:\Wpf.WindowUI.Demo1\AppearanceCore\bin\Debug\net8.0-windows\AppearanceCore.deps.json
+E:\Wpf.WindowUI.Demo1\AppearanceCore\bin\Debug\net8.0-windows\AppearanceCore.dll
+E:\Wpf.WindowUI.Demo1\AppearanceCore\bin\Debug\net8.0-windows\AppearanceCore.pdb
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.AssemblyInfoInputs.cache
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.AssemblyInfo.cs
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.csproj.CoreCompileInputs.cache
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.dll
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\refint\AppearanceCore.dll
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\AppearanceCore.pdb
+E:\Wpf.WindowUI.Demo1\AppearanceCore\obj\Debug\net8.0-windows\ref\AppearanceCore.dll

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\HarmonyOS_Sans_Black.ttf" />
+    <None Remove="Fonts\HarmonyOS_Sans_Bold.ttf" />
+    <None Remove="Fonts\HarmonyOS_Sans_Light.ttf" />
+    <None Remove="Fonts\HarmonyOS_Sans_Medium.ttf" />
+    <None Remove="Fonts\HarmonyOS_Sans_Regular.ttf" />
+    <None Remove="Fonts\HarmonyOS_Sans_Thin.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\HarmonyOS_Sans_Black.ttf" />
+    <Resource Include="Fonts\HarmonyOS_Sans_Bold.ttf" />
+    <Resource Include="Fonts\HarmonyOS_Sans_Light.ttf" />
+    <Resource Include="Fonts\HarmonyOS_Sans_Medium.ttf" />
+    <Resource Include="Fonts\HarmonyOS_Sans_Regular.ttf" />
+    <Resource Include="Fonts\HarmonyOS_Sans_Thin.ttf" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,178 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:guiControl="clr-namespace:GuiResources.CustomControls">
+    <Style x:Key="TextRadioButton"
+           TargetType="{x:Type RadioButton}">
+        <Setter Property="Background"
+                Value="{DynamicResource ResourceKey=NormalBrush}" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type RadioButton}">
+                    <Border x:Name="border"
+                            Width="{TemplateBinding Width}"
+                            Height="{TemplateBinding Height}"
+                            Background="{TemplateBinding Background}"
+                            CornerRadius="10">
+                        <TextBlock Background="Transparent"
+                                   x:Name="textBlock"
+                                   FontFamily="{StaticResource HOS_Medium}"
+                                   FontSize="{TemplateBinding FontSize}"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center"
+                                   TextAlignment="Center"
+                                   Text="{Binding Content, RelativeSource={RelativeSource TemplatedParent}}"
+                                   Foreground="{DynamicResource MainTextBrush}" />
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked"
+                                 Value="True">
+                            <Setter TargetName="border"
+                                    Property="Background"
+                                    Value="{DynamicResource ResourceKey=ChooseBrush}" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                    
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="windowStyle"
+           TargetType="{x:Type Window}">
+        <Setter Property="AllowsTransparency"
+                Value="True" />
+        <Setter Property="Background"
+                Value="Transparent" />
+        <Setter Property="WindowStyle"
+                Value="None" />
+    </Style>
+
+    <Style x:Key="MainTextBlockStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily"
+                Value="{StaticResource HOS_Medium}" />
+        <Setter Property="Foreground"
+                Value="{DynamicResource MainTextBrush}" />
+    </Style>
+
+    <Style x:Key="TextBlockStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily"
+                Value="{StaticResource HOS_Regular}" />
+        <Setter Property="Foreground"
+                Value="{DynamicResource TextBrush}" />
+    </Style>
+
+    <Style x:Key="EllipseTextRadioButton"
+           TargetType="{x:Type RadioButton}">
+        <Setter Property="Background"
+                Value="{DynamicResource NormalBrush}" />
+        <Setter Property="Foreground"
+                Value="{DynamicResource MainTextBrush}" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type RadioButton}">
+                    <Border x:Name="border"
+                            Width="{TemplateBinding Width}"
+                            Height="{TemplateBinding Width}"
+                            Background="{TemplateBinding Background}"
+                            CornerRadius="100">
+                        <TextBlock Background="Transparent"
+                                   x:Name="textBlock"
+                                   FontFamily="{StaticResource HOS_Bold}"
+                                   FontSize="{TemplateBinding FontSize}"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center"
+                                   TextAlignment="Center"
+                                   Text="{Binding Content, RelativeSource={RelativeSource TemplatedParent}}"
+                                   Foreground="{TemplateBinding Foreground}" />
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked"
+                                 Value="true">
+                            <Setter TargetName="border"
+                                    Property="Background"
+                                    Value="{DynamicResource TopicBrush}" />
+                            <Setter Property="Foreground"
+                                    Value="{DynamicResource LightBrush}" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="BorderStyle"
+           TargetType="{x:Type Border}">
+        <Setter Property="Background"
+                Value="{DynamicResource NormalBrush}" />
+    </Style>
+
+    <Style x:Key="CardBorderStyle"
+           TargetType="{x:Type Border}">
+        <Setter Property="Margin"
+                Value="0,26.8,0,0" />
+        <Setter Property="Background"
+                Value="{DynamicResource NormalBrush}" />
+
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver"
+                     Value="True">
+                <Trigger.EnterActions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ThicknessAnimation Storyboard.TargetProperty="Margin"
+                                                To="0,0,0,0"
+                                                Duration="0:0:0.6" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </Trigger.EnterActions>
+
+                <Trigger.ExitActions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ThicknessAnimation Storyboard.TargetProperty="Margin"
+                                                To="0,0,0,0"
+                                                Duration="0:0:0.3" />
+                            <ThicknessAnimation Storyboard.TargetProperty="Margin"
+                                                To="0,26.8,0,0"
+                                                Duration="0:0:0.6" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </Trigger.ExitActions>
+            </Trigger>
+        </Style.Triggers>
+        
+    </Style>
+
+    <Style x:Key="iconButtonStyle"
+           TargetType="{x:Type guiControl:IconButton}">
+        <Setter Property="HorizontalAlignment"
+                Value="Center" />
+        <Setter Property="VerticalAlignment"
+                Value="Center" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type guiControl:IconButton}">
+                    <Grid Width="{TemplateBinding Width}"
+                          Height="{TemplateBinding Width}">
+                        <Border x:Name="border"
+                                CornerRadius="10"
+                                Background="{TemplateBinding Background}">
+                            <Image Margin="10">
+                                <Image.Source>
+                                    <DrawingImage Drawing="{Binding Icon,RelativeSource={RelativeSource TemplatedParent}}" />
+                                </Image.Source>
+                            </Image>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+</ResourceDictionary>

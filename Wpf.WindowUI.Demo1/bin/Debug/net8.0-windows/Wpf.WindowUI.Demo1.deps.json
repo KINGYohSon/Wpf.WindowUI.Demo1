@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wpf.WindowUI.Demo1/1.0.0": {
+        "dependencies": {
+          "AppearanceCore": "1.0.0",
+          "GuiResources": "1.0.0"
+        },
+        "runtime": {
+          "Wpf.WindowUI.Demo1.dll": {}
+        }
+      },
+      "AppearanceCore/1.0.0": {
+        "runtime": {
+          "AppearanceCore.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GuiResources/1.0.0": {
+        "runtime": {
+          "GuiResources.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf.WindowUI.Demo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppearanceCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuiResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <FontFamily x:Key="HOS_Thin">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Thin.ttf#HarmonyOS Sans Thin
+    </FontFamily>
+    <FontFamily x:Key="HOS_Regular">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Regular.ttf#HarmonyOS Sans Regular
+    </FontFamily>
+    <FontFamily x:Key="HOS_Medium">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Medium.ttf#HarmonyOS Sans Medium
+    </FontFamily>
+    <FontFamily x:Key="HOS_Light">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Light.ttf#HarmonyOS Sans Light
+    </FontFamily>
+    <FontFamily x:Key="HOS_Bold">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Bold.ttf#HarmonyOS Sans Bold
+    </FontFamily>
+    <FontFamily x:Key="HOS_Black">
+        /GuiResources;Component/Fonts/HarmonyOS_Sans_Black.ttf#HarmonyOS Sans Black
+    </FontFamily>
+</ResourceDictionary>

@@ -1,0 +1,16 @@
+﻿<Application x:Class="Wpf.WindowUI.Demo1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Wpf.WindowUI.Demo1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/GuiResources;component/ThemeColors/LightColor.xaml" />
+                <ResourceDictionary Source="/GuiResources;component/Fonts/FontGeneric.xaml" />
+                <ResourceDictionary Source="/GuiResources;component/SvgXamlResources.xaml" />
+                <ResourceDictionary Source="/GuiResources;component/CustomControls/ControlStyles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
